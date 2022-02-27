@@ -4,3 +4,4 @@
 
 - monk-and-inversions
 - monk-and-rotations
+- minimum-and-xor-or
