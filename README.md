@@ -6,3 +6,4 @@
 - monk-and-rotations
 - minimum-and-xor-or
 - cyclic-shift
+- unlucky-13
